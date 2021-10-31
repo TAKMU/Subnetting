@@ -12,3 +12,4 @@ There are several things that I didn't know before that are applied in this prog
 -Sorting pointers
 
 I will be trying to finish this program in the upcoming days, however I wanted to show this program to showcase my actual abilities for my resume (couldn't make it in time). 
+After I finish this program, I will try and do the same program in Python. 
